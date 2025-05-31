@@ -1,4 +1,4 @@
-# ♟️ Chess Commentary App
+# ♟️ Real Time Chess Commentary App
 
 An AI-powered real-time chess commentator that observes live chess games, interprets game positions visually, generates expert-level commentary using Azure OpenAI's Vision models, and narrates it through Azure Text-to-Speech.
 
@@ -186,3 +186,7 @@ Built using:
 ## 🙋‍♂️ Need Help?
 
 Open an issue.
+
+## ⚠️ Disclaimer
+
+This project is provided **"as is"** without warranty of any kind. The author assumes **no responsibility or liability** for any errors, inaccuracies, or misuse of this software. Use at your own risk.
