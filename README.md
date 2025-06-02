@@ -166,7 +166,7 @@ You are free to:
 
 If you use this app, its architecture, or commentary outputs in your project, paper, content, or product, please include the following attribution:
 
-> “Chess Commentary App by Sourav Sahu, licensed under CC BY 4.0 – https://github.com/your-repo-url”
+> “Chess Commentary App by Sourav Sahu, licensed under CC BY 4.0 – [https://github.com/souravsahums/Real-Time-Chess-Comentator-App”](https://github.com/souravsahums/Real-Time-Chess-Commentator-App)
 
 We appreciate the citation and recognition. Thank you!
 
